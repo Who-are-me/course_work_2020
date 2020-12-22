@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/fin"/>
+    <qresource prefix="/img">
+        <file>img/expose_b_0.png</file>
+        <file>img/find_b_0.png</file>
+        <file>img/img_logo.png</file>
+        <file>img/work.jpeg</file>
+    </qresource>
+</RCC>
